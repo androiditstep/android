@@ -1,0 +1,7 @@
+video: https://youtu.be/Ad-ffQSNrwQ
+
+ƒомашнее задание:
+
+–еализовать методы deleteBack(), pushFront(), delete() класса LinkedLink (см. проект NestedClasses.zip)
+ѕривести пример применени€ списка дл€ хранени€ массива животных из последнего домашнего задани€
+(допускаетс€ помен€ть Object на Animal дл€ класса Node)
