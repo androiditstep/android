@@ -1,0 +1,41 @@
+1. Изучить методы классa Throwable: http://spec-zone.ru/RU/Java/Docs/7/api/java/lang/Throwable.html
+2. Подготовиться к собеседованию: http://javastudy.ru/interview/exceptions/
+
+Практическое задание:
+
+Есть программа. Модифицируйте программу таким образом, что бы перехватывались все ошибки ввода данных
+пользователем, в методе getCube и getSquare необходимо выбрасить пользовательское исключение NumberOutOfRange 
+в случае, если аргументы больше 500 и меньше -500
+
+
+import java.io.*;
+import java.util.Scanner;
+
+public class ThrowExceptionHomework {
+    static Scanner oScanner = new Scanner(System.in);
+
+    public static void main(String[] args) {
+        int i_num;
+        int i_cube;
+
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Enter number to get cube (-500 to 500 range)");
+            i_num = oScanner.nextInt();
+            i_cube = getCube(i_num);
+            System.out.println("Cube: " + i_cube);
+        }
+
+        System.out.println("Main Ends");
+    }
+
+    public static int getCube(int i) {
+        int i_cube = 0;
+        i_cube = i * getSquare(i);
+
+        return i_cube;
+    }
+
+    public static int getSquare(int i) {
+        return i * i;
+    }
+}
