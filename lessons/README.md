@@ -9,3 +9,7 @@
 34. [Коллекции. Словари. Подготовка к экзамену](lesson34)
 
 ## Android
+
+## Полезные ссылки
+
+* [Ответы на 100+ вопросов по Java Concurrency](https://github.com/arteam/100-Java-Concurrency-questions)
