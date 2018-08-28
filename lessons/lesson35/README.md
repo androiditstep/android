@@ -8,6 +8,6 @@
 * [Исключения](exceptions.txt)
 * [Строки](strings.txt)
 
-##Полезные ссылки
+## Полезные ссылки
 
 * [Список вопросов с ответами для собеседования по Java](http://javastudy.ru/interview/list-of-question-java-interview/)
