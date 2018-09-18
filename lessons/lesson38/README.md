@@ -7,11 +7,7 @@
 * Цели и задачи разметки (layout)
 * Виды разметки
 	* FrameLayout
-	* LinearLayout
-	* GridLayout 
-	* TableLayout
-	* RelativeLayout
-	* ConstraintLayout	
+	* LinearLayout	
 * Примеры использования различных видов разметки
 * Лучшие практики
 
