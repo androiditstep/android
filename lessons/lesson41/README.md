@@ -2,18 +2,16 @@
 
 ![Views diagram classes](views.png)
 
-[Видео лекции]()
-
-
+[Видео лекции](https://youtu.be/LV4LiBrZV6E)
 
 Вопросы:
 
 * Аттрибут android:enabled
 * Аттрибут android:visible
 * Основные виджеты
-	*	EditText
+	*	EditText. Интерфейс TextWatcher и InputFilter
 	*	Button
-	* 	CompoudButton
+	* 	CompoudButton.
 		*	CheckBox
 		*	ToggleButton
 		*	RadioButton и RadioGroup
