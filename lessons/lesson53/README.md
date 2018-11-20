@@ -2,6 +2,8 @@
 
 ![DatePickerDialog](https://en.proft.me/media/android/android_date_picker_dialog1.png)
 
+[Видео занятия](https://youtu.be/KK7_JvOzuuo)
+
 Вопросы:
 
 *	Как добавить всплывающее меню (PopupMenu) в приложение?
