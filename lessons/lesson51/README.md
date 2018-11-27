@@ -17,4 +17,4 @@
 * [Паттерн проектирования «Приспособленец» / «Flyweight»](https://habr.com/post/88393/)
 * [Using the RecyclerView](https://guides.codepath.com/android/using-the-recyclerview)
 * [Create a List with RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
-
+* [Android list item has no click effect here is what to do](https://www.lehelmatyus.com/996/android-list-item-has-no-click-effect)
