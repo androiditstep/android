@@ -1,23 +1,24 @@
-# Тема: Изображения, графика
+# Тема: Фрагменты
 
-![]()
+![Fragments](https://metanit.com/java/android/pics/fragment.png)
 
-[Видео занятия]()
+[Видео занятия](https://youtu.be/fLpZWMWErQA)
 
 Вопросы:
 
-* 	Работа с изображениями как с ресурсами
-*	Работа с изображениями как с внешними файлами
-*	Отрисовка графических примитивов
-*	Использование шрифтов
+* 	Что такое фрагмент?
+*	Цели и задачи фрагментов
+*	Создание фрагмента
+*	Жизненный цикл фрагмента
+*	Добавление фрагмента
+*	Удаление фрагмента
+*	Замена фрагмента
+*	Примеры создания и использования фрагментов
 
 	
 ## Полезные ссылки
 
-* [Drawable resources](https://developer.android.com/guide/topics/resources/drawable-resource)
-* [Android Drawable XML Documentation](http://idunnolol.com/android/drawables.html)
-* [Shape](https://developer.android.com/guide/topics/resources/drawable-resource#Shape)
-* [Android Button Maker](http://angrytools.com/android/button/)
-* [Bundled font](https://developer.android.com/guide/topics/resources/font-resource)
-
+* [Фрагменты](https://developer.android.com/guide/components/fragments?hl=ru)
+* [Паттерн Наблюдатель](https://refactoring.guru/ru/design-patterns/observer/java/example)
+* [Паттерн Фабричный метод](https://refactoring.guru/ru/design-patterns/factory-method)
 
