@@ -1,8 +1,8 @@
 # Тема: Анимация
 
-![]()
+![Basic Android Animation](basic-android-animation.jpg)
 
-[Видео занятия]()
+[Видео занятия](https://youtu.be/66BtINRsIao)
 
 Вопросы:
 
@@ -19,7 +19,8 @@
 	
 ## Полезные ссылки
 
+* [AnimationDrawable](https://developer.android.com/reference/android/graphics/drawable/AnimationDrawable)
 * [View Animation](https://developer.android.com/guide/topics/graphics/view-animation.html)
 * [ViewPropertyAnimator](https://developer.android.com/reference/android/view/ViewPropertyAnimator.html)
-
+* [Animation](http://www.bogotobogo.com/Android/android19Animation.php)
 
