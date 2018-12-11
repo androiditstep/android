@@ -1,0 +1,6 @@
+Создать игру Memory по аналогии с http://dkmgames.com/memory/pairsrun.php
+или https://play.google.com/store/apps/details?id=az.ivytech.memoryGame&hl=ru
+
+При отркытии карточек применить эффект анимации переварачивания.
+
+Будет плюсом если в игре есть несколько уровней.
