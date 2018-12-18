@@ -1,9 +1,9 @@
-# Тема: Обработка жестов пользователем
+# Тема: Обработка жестов пользователя
 
 ![Android touch](http://www.vogella.com/tutorials/AndroidTouch/img/xandroidtouch10.png.pagespeed.ic.P0F_sA_glU.png)
 
 Видео занятия:
-	*	[Видео]()
+	*	[Видео](https://youtu.be/YSoAxzzm5Eo)
 
 
 Вопросы:

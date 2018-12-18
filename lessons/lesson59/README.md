@@ -14,7 +14,6 @@
 	*	AnimatorSet
 *	Transition Framework
 	*	Transition
-		*	
 	*	Scene
 	*	TransitionManager
 *	Как добавить анимацию фрагментов?
