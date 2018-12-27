@@ -1,6 +1,6 @@
 # Тема: Animator, Transition Framework
 
-![Basic Android Animation](basic-android-animation.jpg)
+![Basic Android Animation](../lesson57/basic-android-animation.jpg)
 
 Видео занятия:
 	*	[Видео](https://youtu.be/DgGlkkjKBpQ)

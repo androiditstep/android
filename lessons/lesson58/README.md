@@ -1,8 +1,9 @@
 # Тема: Анимация
 
-![Basic Android Animation](basic-android-animation.jpg)
+![Basic Android Animation](../loesson57/basic-android-animation.jpg)
 
 Видео занятия:
+
 	*	[Видео 1](https://youtu.be/7hQf11hzw7Q)
 	*	[Видео 2](https://youtu.be/uhCyLTK1ZtM)
 
