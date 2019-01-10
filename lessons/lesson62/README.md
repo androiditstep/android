@@ -1,34 +1,20 @@
-# Тема: Сервисы, намерения intent
+# Тема: Неявные намерения, широковещательная рассылка
 
 Видео занятия:
-	*	[Видео]()
-
+	*	[Видео](https://youtu.be/EQqM8DqdJGA)
 
 Вопросы:
 
-1.	Cлужбы 
-1.	Что такое служба?
-2.	Цели и задачи службы
-3.	Жизненный цикл службы
-2.	Намерения intent
-1.	Что такое намерение?
-2.	Цели и задачи намерений
-3.	Понятие группы намерений
-4.	Создание intent
-5.	Запуск нового activity с передачей intent
-6.	Передача intent службам
-3.	Слушатели BroadcastReceiver
-1.	Что такое широковещательная передача?
-2.	Что такое BroadcastReceiver?
-3.	Цели и задачи BroadcastReceiver
-4.	Жизненный цикл
-5.	Регистрация BroadcastReceiver
-6.	Широковещательная передача событий с использованием намерений 
-7.	Использование LocalBroadcastManager
-4.	Практические примеры
+1.	Создание неявного intent
+2.	Интент-фильтр, 
+3.	Что такое широковещательная передача?
+4.	Что такое BroadcastReceiver?
+5.	Цели и задачи BroadcastReceiver
+6.	Использование LocalBroadcastManager
 
 	
 ## Полезные ссылки
 
-* []()
-
+* [Activities and Implicit Intents](https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/Unit%201/23_c_activities_and_implicit_intents.html)
+* [Common Intents](https://developer.android.com/guide/components/intents-common#java)
+* [Broadcasts overview](https://developer.android.com/guide/components/broadcasts)
