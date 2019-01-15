@@ -1,0 +1,19 @@
+Реализовать приложение в которое добавить BroadcastReceiver
+принимающий СМС сообщения.
+
+Для получения сообщения необходимо зарегестрировать в AndroidManifest.xml
+ресивер с action в intent-filter: android.provider.Telephony.SMS_RECEIVED
+
+Дополнительно в AndroidManifest.xml необходимо добавить разрещения для получения
+и чтения СМС:
+	1) android.permission.RECEIVE_SMS
+	2) android.permission.READ_SMS
+	
+Примечание: это опасные (dangerous) разрещения, поэтому требуется получение разрещения
+во время выполнения программы (Runtime permission) для Android >= 6.0
+Можно тестировать на эмуляторе с Android < 6.0 (т.к. о Runtime permission будем говорить позже).
+
+Для получения текста СМС сообщения используется к метод getMessageFromIntents класса Telephony.Sms.Intents 
+(https://developer.android.com/reference/android/provider/Telephony.Sms.Intents)
+
+Сообщение будет храниться в объекте типа SmsMessage (https://developer.android.com/reference/android/telephony/SmsMessage)
