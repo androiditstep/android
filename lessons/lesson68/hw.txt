@@ -1,0 +1,8 @@
+Домашнее задание
+
+1. Изучить презентации: https://github.com/maxchv/itstep/blob/master/databases/presentation/01.intro.rst
+	    		https://github.com/maxchv/itstep/blob/master/databases/presentation/02.IntroTables.rst
+  	     		https://github.com/maxchv/itstep/blob/master/databases/presentation/03.IntroSQL.rst
+
+2. Создать две активности - главную и с настройками. На главной активности разместить EditText, Button, TextView и т.д.
+   На странице с настройками вынести настройки виджетов: размер шрифта, цвет текста и фона (по отдельности для кажного виджета)
