@@ -16,68 +16,13 @@
 3. Cursor
 4. ContentValues
 5. SQLiteException
-1.	Введение в теорию баз данных
-	*	Таблицы
-		*	Индексы
-2.	Введение в язык структурированных запросов SQL
-	*	Запросы DML: DELETE	
-	*	Оператор SELECT
-		*	Предложение SELECT
-		*	Предложение FROM
-		*	Предложение WHERE
-		*	Предложение ORDER BY
-		*	Ключевые слова IN, BETWEEN, LIKE		
-2.	Принципы создания многотабличной базы данных
-	*	Причины создания многотабличной базы данных
-	*	Внешний ключ
-	*	Связи. Типы связей
-	*	Целостность данных
-	*	Нормализация
-		*	Необходимость нормализации
-		*	Понятие нормальной формы
-		*	Первая нормальная форма
-		*	Вторая нормальная форма
-		*	Третья нормальная форма
-		*	Нормальная Форма Бойса-Кодда
-		*	Многотабличные запросы
-	*	Принципы создания многотабличного запроса
-			*	Декартовое произведение
-
-6.	Функции агрегирования
-1.	Функции агрегирования 
-1.	Функция COUNT
-2.	Функция AVG
-3.	Функция SUM
-4.	Функция MIN
-5.	Функция MAX
-7.	Понятие группировки. Ключевое слово GROUP BY
-8.	Ключевое слово HAVING. Сравнительный анализ HAVING и WHERE
-9.	Подзапросы
-1.	Необходимость создания и использования подзапросов
-2.	Сравнение подзапросов и многотабличных запросов
-3.	Принцип работы подзапросов
-10.	 Операторы для использования в подзапросах, объединения
-1.	Операторы для использования в подзапросах
-1.	Оператор EXISTS
-2.	Операторы ANY/SOME
-3.	Оператор ALL
-2.	Объединение результатов запроса
-1.	Принципы объединения
-2.	Ключевое слово UNION
-3.	Ключевое слово UNION ALL
-3.	Объединения JOIN
-1.	Понятие inner join
-2.	Понятие left join
-3.	Понятие right join
-4.	Понятие full join
-11.	План выполнения запроса
-12.	Оптимизация запросов
-
-
+6. SimpleCursorAdapter
 
 	
 ## Полезные ссылки
 
-* [PreferenceFragmentCompat](https://developer.android.com/reference/android/support/v7/preference/PreferenceFragmentCompat)
-* [Settings](https://developer.android.com/guide/topics/ui/settings/)
-* [Building an Android Settings Screen](https://medium.com/@JakobUlbrich/building-a-settings-screen-for-android-part-1-5959aa49337c)
+* [Save data using SQLite](https://developer.android.com/training/data-storage/sqlite#java)
+* [SQLiteOpenHelper](https://developer.android.com/reference/android/database/sqlite/SQLiteOpenHelper)
+* [SQLiteDatabase](https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase)
+* [Cursor](https://developer.android.com/reference/android/database/Cursor)
+* [SimpleCursorAdapter](https://developer.android.com/reference/android/widget/SimpleCursorAdapter)
