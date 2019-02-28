@@ -6,9 +6,8 @@
 Вопросы:
 
 1.	CursorLoader
-2.	LoaderManager
+2.	LoaderManager (Context.getLoaderManager())
 3. 	ContentResolver
-4. 	CursorLoader
 
 	
 ## Полезные ссылки
