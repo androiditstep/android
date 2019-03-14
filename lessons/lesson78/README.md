@@ -1,7 +1,7 @@
 # Тема: Сетевые возможности, доступ к веб-сервисам
 
 Видео занятия:
-	*	[Видео]()
+	*	[Видео](https://youtu.be/wmTH3XczQwo)
 
 Вопросы:
 1.	JSON
@@ -14,8 +14,9 @@
 3.	Практические примеры
 
 
-
 ## Полезные ссылки
 
-* []()
-
+* [WebView](https://developer.android.com/guide/webapps/webview)
+* [JavaSrcipt Object Notation](https://ru.wikipedia.org/wiki/JSON)
+* [JSONObject](https://developer.android.com/reference/org/json/JSONObject)
+* [OkHttp](https://square.github.io/okhttp/)
