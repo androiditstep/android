@@ -1,0 +1,8 @@
+Задание:
+
+Используя Retrofit и Picaso загрузить и отобразить в активность изображения по заданным тегам
+ с сайта flickr.com
+
+Конечаня точка:
+ https://api.flickr.com/services/feeds/photos_public.gne?format=json&nojsoncallback=true
+	

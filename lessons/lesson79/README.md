@@ -5,7 +5,7 @@
 
 Вопросы:
 1.  ConnectivityManager
-2.  REST API
+2.  Что такое REST API?
 3.	Десериализация JSON
 	*	Gson	
 	* 	Jakson
@@ -19,5 +19,4 @@
 * [Postman](https://www.getpostman.com/)
 * [Gson](https://github.com/google/gson)
 * [Гененирование POJO классов из json](http://www.jsonschema2pojo.org/)
-* [Retorofit](https://square.github.io/retrofit/)
 

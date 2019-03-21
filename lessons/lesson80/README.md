@@ -1,18 +1,23 @@
-# Тема: Аудио, видео, камера
+# Тема: Retrofit, Picaso/Glide, Firebase
 
 Видео занятия:
-	*	[Видео]()
+	*	[Видео](https://youtu.be/EBWEsB2WoTk)
 
 Вопросы:
-1.	Проигрывание аудиофайлов
-2.	Запись аудио
-3.	Проигрывание видеофайлов
-4.	Запись видео
-5.	Использование камеры
-6.	Практические примеры
+1. 	Retrofit
+2. 	Работа с изображениями загружаемые по сети
+	*	Picaso
+	*	Glide
+3.	Firebase
+	*	Analitics
+	* 	Realtime database
+	*	Authorization
 
 
 ## Полезные ссылки
 
-* []()
+* [Retorofit](https://square.github.io/retrofit/)
+* [Picaso](https://square.github.io/picasso)
+* [Glide](https://github.com/bumptech/glide)
+
 
