@@ -1,7 +1,7 @@
 # Тема: Сенсоры
 
 Видео занятия:
-	*	[Видео]()
+	*	[Видео](https://youtu.be/zBujW7hxYN0)
 
 Вопросы:
 2.	Что такое компас, акселерометр, гироскоп?
@@ -13,5 +13,6 @@
 
 ## Полезные ссылки
 
-* []()
+* [Sensors Overview](https://developer.android.com/guide/topics/sensors/sensors_overview)
+* [SensorEvent](https://developer.android.com/reference/android/hardware/SensorEvent.html#values)
 
